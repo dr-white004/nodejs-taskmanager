@@ -47,5 +47,3 @@ A full-stack task management system built with Node.js (Express + Prisma) and Re
 - To register as an **Admin**, you MUST provide the `ADMIN_SECRET` defined in the backend `.env` file (default: `REVOCUBE_ADMIN_2025`).
 - Normal registration defaults to the **User** role.
 
-## Submission
-- GitHub Repository link sent to HR.
